@@ -4,7 +4,7 @@ import './index.css';
 import App from './App';
 import * as serviceWorker from './serviceWorker';
 import 'leaflet/dist/leaflet.css';
-
+import 'bootstrap/css/dist/bootstrap.css';
 
 ReactDOM.render(<App />, document.getElementById('root'));
 
